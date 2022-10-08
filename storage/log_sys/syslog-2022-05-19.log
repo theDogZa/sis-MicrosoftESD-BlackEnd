@@ -1,0 +1,72 @@
+[2022-05-19 12:29:54] local.INFO: #FrontEnd# {"action":"Login","username":"PWM-M8-Surasak","req":"PWM-M8-Surasak","responseCode":500,"view":"A","type":"info","dateTime":"2022-05-19 12:29:49","ip":"101.108.127.44","date":"2022-05-19 12:29:49","uri":"login","parameters":[],"route":"\\Auth\\LoginController@login","request":"PWM-M8-Surasak","response_code":500,"methods":["POST"],"response":null} 
+[2022-05-19 12:29:54] local.INFO: #FrontEnd# {"action":"Login","username":"PWM-M8-Surasak","req":"PWM-M8-Surasak","responseCode":200,"view":"A","type":"info","dateTime":"2022-05-19 12:29:49","ip":"101.108.127.44","date":"2022-05-19 12:29:49","uri":"login","parameters":[],"route":"\\Auth\\LoginController@login","request":"PWM-M8-Surasak","response_code":200,"methods":["POST"],"response":null} 
+[2022-05-19 12:29:56] local.INFO: #FrontEnd# {"req":[],"action":"home.","responseCode":200,"response":[],"view":"A","type":"info","username":"PWM-M8-Surasak","dateTime":"2022-05-19 12:29:55","ip":"101.108.127.44","date":"2022-05-19 12:29:55","uri":"/","parameters":[],"route":"order.index","request":[],"response_code":200,"methods":["GET","HEAD"]} 
+[2022-05-19 15:00:05] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-19 15:00:05","uri":"orders","action":"orders.index","parameters":[],"route":"orders.index","methods":["GET","HEAD"],"request":[],"response_code":200} 
+[2022-05-19 15:00:14] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-19 15:00:14","uri":"orders/export-xls","action":"export.xls","parameters":[],"route":null,"methods":["GET","HEAD"],"request":{"Illuminate\\Http\\Request":"GET /orders/export-xls HTTP/1.1
+Accept:                    text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:           gzip, deflate, br
+Accept-Language:           en-US,en;q=0.9,th;q=0.8
+Connection:                keep-alive
+Cookie:                    _ga=GA1.2.648784980.1652257650; XSRF-TOKEN=eyJpdiI6InN3WHdOMXJpSXd5ZFpYNlIwK2w3UkE9PSIsInZhbHVlIjoiN2RuQzFYTm1Xd09YTmdKWlhEV3RQak5aMnYyRG9GR3FGbCtEYmI2bWY4WUREWlBIdFBXM2Z0YjNhM08vZWMyOTFzYzlZNXEwOS9FSVROMWJpQlNnOFBGcnY1K1pMeGs2VjV3WFh3dFFuMGVieXNiclJ4ZElnZWFoNXFnMC9jUkwiLCJtYWMiOiJhMjNjOGUyYzRmNDUxMjgyZDZlZGFkNDk0ZDI1YzM4ZDQxZjFjYzAyNGQyN2I2MmZhZjdmODdmNzJiNjI4MGEwIn0%3D; sis_microsoft_esd_session=eyJpdiI6IlBUQ2JleWUyc0dtQ3FOTDEzb1VNamc9PSIsInZhbHVlIjoiTjlQdEtsSnpKV0Q3c2RZd1Mwd3BNaithRG5lamVMczR2TDJ5eE4yNnROZ28ydlJhQUFZTGtqMlZCQUttdTN0ejZHWUxLUzg2K3owQ2xLWitxMmY0UDNVOXFQVlZlZ3dab2lCWGgycFhlbHZEelRmVWtuZ1Y3c3EyZFR5TUdqRHAiLCJtYWMiOiI1ODQ0NjZmN2NkZjU4YjEwYTYzM2UyYmExMTM0YTRmYmJhNjhhZDk3MTY3YjBhZmMzMjc2YTEyZTNjYmI1ZTVmIn0%3D
+Host:                      mobileapi.sisthai.com:9200
+Referer:                   https://mobileapi.sisthai.com:9200/orders
+Sec-Ch-Ua:                 \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"
+Sec-Ch-Ua-Mobile:          ?0
+Sec-Ch-Ua-Platform:        \"Windows\"
+Sec-Fetch-Dest:            document
+Sec-Fetch-Mode:            navigate
+Sec-Fetch-Site:            same-origin
+Sec-Fetch-User:            ?1
+Upgrade-Insecure-Requests: 1
+User-Agent:                Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Cookie: _ga=; XSRF-TOKEN=lqPPTg5xMY34dTzRFBn03S5v8dk4alGOkl6bGlIv; sis_microsoft_esd_session=XjtiiYoXKlrocYmNwYWjLlDRLQxEumNZ7KdkA3hT
+
+"},"response_code":200} 
+[2022-05-19 15:03:32] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-19 15:03:32","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":{"sort":"id","direction":"asc"},"response_code":200} 
+[2022-05-19 15:03:33] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-19 15:03:33","uri":"roles","action":"roles.index","parameters":[],"route":"roles.index","methods":["GET","HEAD"],"request":[],"response_code":200} 
+[2022-05-19 15:03:39] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-19 15:03:39","uri":"roles/{role}/edit","action":"roles.edit","parameters":{"role":"3"},"route":"roles.edit","methods":["GET","HEAD"],"request":{"id":"3"},"response_code":200} 
+[2022-05-19 15:03:41] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Chanon_k","ip":"49.229.122.93","date":"2022-05-19 15:03:41","uri":"orders","action":"orders.index","parameters":[],"route":"orders.index","methods":["GET","HEAD"],"request":[],"response_code":200} 
+[2022-05-19 15:03:45] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-19 15:03:45","uri":"roles","action":"roles.index","parameters":[],"route":"roles.index","methods":["GET","HEAD"],"request":[],"response_code":200} 
+[2022-05-19 15:03:46] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-19 15:03:46","uri":"configs","action":"configs.index","parameters":[],"route":"configs.index","methods":["GET","HEAD"],"request":[],"response_code":200} 
+[2022-05-19 15:04:11] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-19 15:04:11","uri":"roles","action":"roles.index","parameters":[],"route":"roles.index","methods":["GET","HEAD"],"request":[],"response_code":200} 
+[2022-05-19 15:04:18] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-19 15:04:18","uri":"roles-permissions/{id}","action":"roles.update_permissions_roles","parameters":{"id":"3"},"route":"roles.update_permissions_roles","methods":["GET","HEAD"],"request":{"id":"3"},"response_code":200} 
+[2022-05-19 15:08:51] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Chanya-sis","ip":"49.228.229.19","date":"2022-05-19 15:08:51","uri":"orders","action":"orders.index","parameters":[],"route":"orders.index","methods":["GET","HEAD"],"request":[],"response_code":200} 
+[2022-05-19 15:08:57] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Chanya-sis","ip":"49.228.229.19","date":"2022-05-19 15:08:57","uri":"orders/export-xls","action":"export.xls","parameters":[],"route":null,"methods":["GET","HEAD"],"request":{"Illuminate\\Http\\Request":"GET /orders/export-xls HTTP/1.1
+Accept:          text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: th-TH,th;q=0.9
+Connection:      keep-alive
+Cookie:          XSRF-TOKEN=eyJpdiI6ImY2UGR1UDZlcTRGajcxVnMvMnZ3cXc9PSIsInZhbHVlIjoibWhYV3JCNVRmRTZrRGVPZ1NNL1RrVGZDdGIybEE4TkhIdXdmS2xXNTFyRGxhVzYvSHNHbVRzWmVWY3dRVTh0L3dIU055ekY0cXZTQzBoaUNtRU15eGN4d0RZeU9sdUMzUC9DZ0k0ODRFQmlsQTVPUFJQZnpJSGVLRVV0NmJUdk0iLCJtYWMiOiI5MzgyYTZmYjRhNjljMDQ0YTNlYzk2MDlmNzVlZDBjNTVmMmY3MmUyYmE1YWVlYjEwM2I5NGE4Yzc3Y2I0M2M2In0%3D; sis_microsoft_esd_session=eyJpdiI6IlovMU9ZdnlwU0szZndYY2ozNVp3OEE9PSIsInZhbHVlIjoiMjVONUdzQldqc0crdDFjNzk5aUo0dGZYVEZGWVFoZmpXT3J1QUQ0aldmSTV0MUwzN2NmZ2t4cUpDbEwyQUlmajVFUW9mSE85NGZuK0RJN1FBbEsyRm1LNkt5K3h3YXA5dk5sdldtUVFzZ2U0akYwTDRuY0JXWS8zZU1VdlBQamsiLCJtYWMiOiJlZDg2ZWU2ZTQ2ZTFkNTM4NDBjYmQwN2FjMWM4NjZhYWI5MjhjYjcxZjBiMDJkYjkzZmNmMmY1ZDgyZjNhNGU3In0%3D
+Host:            mobileapi.sisthai.com:9200
+Referer:         https://mobileapi.sisthai.com:9200/orders
+User-Agent:      Mozilla/5.0 (iPad; CPU OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/12.6.0
+Cookie: XSRF-TOKEN=EKnfcmICYtil1RBJXtu2GyvXewaBMFaUCOoPlqGd; sis_microsoft_esd_session=UdgdEfLvWfo6H0hZER8NsEjYH7AzbAPXSEnFE5RK
+
+"},"response_code":200} 
+[2022-05-19 15:10:22] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Chanya-sis","ip":"49.228.229.19","date":"2022-05-19 15:10:22","uri":"orders/export-xls","action":"export.xls","parameters":[],"route":null,"methods":["GET","HEAD"],"request":{"Illuminate\\Http\\Request":"GET /orders/export-xls HTTP/1.1
+Accept:          text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: th-TH,th;q=0.9
+Connection:      keep-alive
+Cookie:          XSRF-TOKEN=eyJpdiI6ImF1VmZISGlXejc1MXNPNXQ2M1Q0aEE9PSIsInZhbHVlIjoiUGlPbUU4QVhSbjNHS3JacVlnOERVcE1Qd2hHcXZyTDZuaFpMZHZTbjBseWw1TWwvd28rRVViZExta0ptR1ppZ3pQcFJkdWlCYkd3SmczdGdWbk1RY2tvdmRzUUVmQTU0cVNuQVljZ2gzZHlmSWdxbitVU0VCWWJxdEtTMVE1MDgiLCJtYWMiOiJhYmM5ZjUwYWQ4MDgyZTE3OGQ3NDg1ZTIwNDdhY2FjMWFhNWJmNzhiNTk1ODY2NWVjNzdlNTg1YjY4ZGQyZTE1In0%3D; sis_microsoft_esd_session=eyJpdiI6IlIvb3E4aWJRcXIyYmFmam44Znk5VlE9PSIsInZhbHVlIjoiQWZ5TzhmV3padXBKRkFLZ2I1YTZtZ0FGaUdqZm1XcHMrZ2FxSFN1aHQySzUvRDk4QkJnci9iNllYSnBTUkNyQ2Vlb1NaR3ZQdmI4M3BsZ09RRmF0YVFKZkhIcmFoWVNKNFoycEVUWWQrS1VPZ2hFVkdWOENSc29xNG55WkNvekYiLCJtYWMiOiJlODE2NjM5MDBjMGE4ZTg4ZTY3ZGNjMDBiMjAxMjU4YjNhY2JhNjMyOWEzYjUxZmI3ZDMxMGJjNGFjZmE1MzFmIn0%3D
+Host:            mobileapi.sisthai.com:9200
+User-Agent:      Mozilla/5.0 (iPad; CPU OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/12.6.0
+Cookie: XSRF-TOKEN=EKnfcmICYtil1RBJXtu2GyvXewaBMFaUCOoPlqGd; sis_microsoft_esd_session=UdgdEfLvWfo6H0hZER8NsEjYH7AzbAPXSEnFE5RK
+
+"},"response_code":200} 
+[2022-05-19 15:11:48] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Chanya-sis","ip":"49.228.229.19","date":"2022-05-19 15:11:48","uri":"orders/export-xls","action":"export.xls","parameters":[],"route":null,"methods":["GET","HEAD"],"request":{"Illuminate\\Http\\Request":"GET /orders/export-xls HTTP/1.1
+Accept:          text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: th-TH,th;q=0.9
+Connection:      keep-alive
+Cookie:          XSRF-TOKEN=eyJpdiI6ImY4ZFNmTmhTV1g4K2htbU9YdktJblE9PSIsInZhbHVlIjoiQ0NxeFdkQ3pvY3Exa3o5c0lhTW9Tbm9pVlgzNE5LK2IyT2pNc08rcko5TEphanVTT1BQdENnQW5ZSjV1MnFLd3ViUWxQdWhta3U2dUttb09FMjlJQkYzbk1pSzZuVk1SU1Uvb0JYTlVrUlFRa0VlZXh4VUw1aEdiWGczaG9vNEkiLCJtYWMiOiIxNDI0ZTdlYjU2OWY2YTA0NTIxNzYwYmMwYmQzMzIwMjA5NjY0OGM4NjgzNDYwMDEyODQxY2NmZDkyNTY4Y2Q0In0%3D; sis_microsoft_esd_session=eyJpdiI6IlRTZUVFaHFkUXd2OHZ5dHgrTFk2d0E9PSIsInZhbHVlIjoiajN0M3oyWFN3WE5ZT05US1I0VUdNTTVSNXpsUFF3YUZqVVJZa0FES1ZFbURET2RoRUozVnlUc3kySXhBVHQ0MS9lMXlTa29ack4zMnRXRWMrSTA4OU1tUjZDa1V1R2pvV0ZTMWo1ck1EM1p0YTE2Z3E0aGllSTZvd0QzMmpLVk4iLCJtYWMiOiJiZTYzZTc5NTQyNjVhYzhiYzg2ZmQzNzQ5ODAzMTM4YmI2OTJlMjNmMThkODRkMTUwZWRjNGM4NWQwZGZhMmYwIn0%3D
+Host:            mobileapi.sisthai.com:9200
+User-Agent:      Mozilla/5.0 (iPad; CPU OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/12.6.0
+Cookie: XSRF-TOKEN=EKnfcmICYtil1RBJXtu2GyvXewaBMFaUCOoPlqGd; sis_microsoft_esd_session=UdgdEfLvWfo6H0hZER8NsEjYH7AzbAPXSEnFE5RK
+
+"},"response_code":200} 
+[2022-05-19 15:36:09] local.INFO: #FrontEnd# {"action":"Login","username":"PWM-M5 KASEM","req":"PWM-M5 KASEM","responseCode":500,"view":"A","type":"info","dateTime":"2022-05-19 15:36:04","ip":"49.229.120.177","date":"2022-05-19 15:36:04","uri":"login","parameters":[],"route":"\\Auth\\LoginController@login","request":"PWM-M5 KASEM","response_code":500,"methods":["POST"],"response":null} 
+[2022-05-19 15:36:10] local.INFO: #FrontEnd# {"action":"Login","username":"PWM-M5 KASEM","req":"PWM-M5 KASEM","responseCode":200,"view":"A","type":"info","dateTime":"2022-05-19 15:36:04","ip":"49.229.120.177","date":"2022-05-19 15:36:04","uri":"login","parameters":[],"route":"\\Auth\\LoginController@login","request":"PWM-M5 KASEM","response_code":200,"methods":["POST"],"response":null} 
+[2022-05-19 15:36:11] local.INFO: #FrontEnd# {"req":[],"action":"home.","responseCode":200,"response":[],"view":"A","type":"info","username":"PWM-M5 KASEM","dateTime":"2022-05-19 15:36:10","ip":"49.229.120.177","date":"2022-05-19 15:36:10","uri":"/","parameters":[],"route":"order.index","request":[],"response_code":200,"methods":["GET","HEAD"]} 
+[2022-05-19 15:36:15] local.INFO: #FrontEnd# {"req":{"sale_uid":67},"responseCode":200,"response":[{"id":111,"customer_name":"PHUCHORN","email":"V_WAT1@HOTMAIL.COM","tel":"0876469911","path_no":"79G-05337","receipt_no":"14201/54706","sale_uid":67,"sale_at":"2022-05-18 14:44:29"}],"view":"A","type":"info","username":"PWM-M5 KASEM","dateTime":"2022-05-19 15:36:15","ip":"49.229.120.177","date":"2022-05-19 15:36:15","uri":"order-list","action":"order.list","parameters":[],"route":"order.list","request":{"sale_uid":67},"response_code":200,"methods":["GET","HEAD"]} 
+[2022-05-19 15:36:29] local.INFO: #FrontEnd# {"req":[],"action":"home.","responseCode":200,"response":[],"view":"A","type":"info","username":"PWM-M5 KASEM","dateTime":"2022-05-19 15:36:28","ip":"49.229.120.177","date":"2022-05-19 15:36:28","uri":"/","parameters":[],"route":"order.index","request":[],"response_code":200,"methods":["GET","HEAD"]} 

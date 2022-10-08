@@ -1,0 +1,32 @@
+[2022-05-03 16:09:59] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:09:59","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":{"sort":"id","direction":"asc"},"response_code":200} 
+[2022-05-03 16:10:45] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:10:45","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":{"page":"2","sort":"id","direction":"asc"},"response_code":200} 
+[2022-05-03 16:10:55] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:10:55","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":{"page":"3","sort":"id","direction":"asc"},"response_code":200} 
+[2022-05-03 16:11:11] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:11:11","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":{"page":"2","sort":"id","direction":"asc"},"response_code":200} 
+[2022-05-03 16:11:20] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:11:20","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":{"page":"1","sort":"id","direction":"asc"},"response_code":200} 
+[2022-05-03 16:11:33] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:11:33","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":{"page":"3","sort":"id","direction":"asc"},"response_code":200} 
+[2022-05-03 16:11:47] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:11:47","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":{"page":"2","sort":"id","direction":"asc"},"response_code":200} 
+[2022-05-03 16:11:48] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:11:48","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":{"page":"1","sort":"id","direction":"asc"},"response_code":200} 
+[2022-05-03 16:11:49] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:11:49","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":{"page":"1","sort":"id","direction":"asc"},"response_code":200} 
+[2022-05-03 16:12:16] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:12:16","uri":"billings","action":"billings.index","parameters":[],"route":"billings.index","methods":["GET","HEAD"],"request":[],"response_code":200} 
+[2022-05-03 16:12:35] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:12:35","uri":"billings","action":"billings.index","parameters":[],"route":"billings.index","methods":["GET","HEAD"],"request":{"page":"2"},"response_code":200} 
+[2022-05-03 16:12:42] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:12:42","uri":"orders","action":"orders.index","parameters":[],"route":"orders.index","methods":["GET","HEAD"],"request":[],"response_code":200} 
+[2022-05-03 16:12:50] local.INFO: #BackEnd# {"view":"A","type":"info","username":"Fang-PM","ip":"172.20.0.2","date":"2022-05-03 16:12:50","uri":"orders/export-xls","action":"export.xls","parameters":[],"route":null,"methods":["GET","HEAD"],"request":{"Illuminate\\Http\\Request":"GET /orders/export-xls HTTP/1.1
+Accept:                    text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:           gzip, deflate, br
+Accept-Language:           en-US,en;q=0.9,th;q=0.8
+Connection:                keep-alive
+Cookie:                    _ga=GA1.2.1577491233.1624847486; XSRF-TOKEN=eyJpdiI6IlZteXFzaGRIY0xwRG95M3BOWVRNZ2c9PSIsInZhbHVlIjoiU3lBT3RhMmJlUS91K2x3SXdRM3ZrR1lkb0tNWk9GeHZncmlSenMveU40NFBTMUxDU2Q5aVZ0NWtYUncvOGhLTjhuaDgwTmpFL0pTSEp2elJpRVB2RWpxZEVPV3BiTXo5MFdCWVdJNWZXdDAvd25iWC9seElsVWJzZ2RiOGl4YSsiLCJtYWMiOiI3MDgzMzZlNjZkMzk0N2ZmYmU1NGFkZGYzMGI4YWQ2NmFiNTg0ZDE2NGJjMjk0YTBiMDlmZGExNDFmMWQyMzMwIn0%3D; sis_microsoft_esd_session=eyJpdiI6IkFLaVBxL1dFMmZkU0NKOHEyWnIzbWc9PSIsInZhbHVlIjoiVWlGd0tOSGhHVlZMSlJhNVg1OTdScGJFMGVWRGJRVTVUM3ZLWkdPMHgybWJnU2crbEdwbFVoWDIxbmJnWTdIUVlUQkdCSDhUa3ppZy9lVU1KY3RLOXl4M2U3Tm9uSUFzU2FxemN4UjVQLzZzTGZNWkVOSWhOblFvNXM1ZFdnNlYiLCJtYWMiOiIwYTkzZDk2NzExYTRlZWFhNTU4MjMyZDE1ZWZhOTBmNDgwZmMyMDZjOTY2MTgyM2FiMDQ3NzM5YjU2NjJlMTBlIn0%3D
+Host:                      mobileapi.sisthai.com:9200
+Referer:                   https://mobileapi.sisthai.com:9200/orders
+Sec-Ch-Ua:                 \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"
+Sec-Ch-Ua-Mobile:          ?0
+Sec-Ch-Ua-Platform:        \"Windows\"
+Sec-Fetch-Dest:            document
+Sec-Fetch-Mode:            navigate
+Sec-Fetch-Site:            same-origin
+Sec-Fetch-User:            ?1
+Upgrade-Insecure-Requests: 1
+User-Agent:                Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Cookie: _ga=; XSRF-TOKEN=mGqB7KicYXqtfnfNkTd2j3zNxoptuOk5cpbt3bg4; sis_microsoft_esd_session=9w6bUyxmvMNMOpx6GbKXihUu8Z1ixs1YckxsZ9zf
+
+"},"response_code":200} 

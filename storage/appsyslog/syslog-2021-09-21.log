@@ -1,0 +1,2 @@
+[2021-09-21 10:51:16] local.INFO: #log# {"username":"dev","ip":"127.0.0.1","date":"2021-09-21 10:51:16","uri":"login","parameters":[],"route":null,"request":"dev","response_code":200,"methods":["POST"]} 
+[2021-09-21 17:04:26] local.INFO: #log# {"username":"dev","ip":"127.0.0.1","date":"2021-09-21 17:04:26","uri":"login","parameters":[],"route":null,"request":"dev","response_code":200,"methods":["POST"]} 

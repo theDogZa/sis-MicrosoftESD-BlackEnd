@@ -1,0 +1,84 @@
+.bock-sub-menu {
+    float: right;
+    margin-bottom: 0.25rem !important;
+}
+
+.bock-sub-menu a {
+    margin-top: -5px;
+}
+
+.overlay {
+    position: fixed; /* Positioning and size */
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.5); /* color */
+    display: none; /* making it hidden by default */
+    z-index: 10;
+}
+
+.block-search {
+    width: 95%;
+    right: 0px;
+    z-index: 500;
+    box-shadow: 0px 5px 5px 1px #cccccc;
+}
+.btn-easy-search {
+    border-top-right-radius: 0rem !important;
+    border-bottom-right-radius: 0rem !important;
+}
+.btn-adv-search {
+    border-top-left-radius: 0rem !important;
+    border-bottom-left-radius: 0rem !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    color: #fff !important;
+}
+
+.block-search label {
+    font-size: 14px !important;
+}
+
+.btn-popover-info {
+    font-size: 0.5rem !important;
+    min-width: 18px !important;
+    height: 18px !important;
+}
+
+.icon-clear-search-left{
+top: 8px;
+left: 0.5rem;
+}
+
+.icon-clear-search-right{
+top: 8px;
+right: 0.5rem;
+}  
+
+.needs-validation .input-group input {
+   width: 70% !important;
+}
+.was-validated .form-control:valid ~ .input-group-append .input-group-text{
+        border-color: #9ccc65;
+}
+.was-validated .form-control:invalid ~ .input-group-append .input-group-text{
+        border-color: #ef5350;
+}
+.was-validated .form-control:invalid,
+.form-control.is-invalid,
+.was-validated .custom-select:invalid,
+.custom-select.is-invalid {
+    border-color: #ef5350 !important;
+}
+
+.input-group .input-group-text.br25{
+    border-top-right-radius:0.25rem !important;
+    border-bottom-right-radius:0.25rem !important;
+}
+
+/* .table th,
+.table td {
+    min-width: 20px !important;
+
+} */

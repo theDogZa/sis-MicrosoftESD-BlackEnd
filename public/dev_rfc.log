@@ -1,0 +1,337 @@
+
+**** Log file opened at 2021-08-30 15:35:58.550447 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 8, Compiled on Apr 17 2021 03:23:42
+ CPIC library: 753.2020.03.230 version 3, NI library: 40, Kernel Release: 753 Patch Level 814
+ Current working directory: C:\webroot\sis-payment\public, Program: php
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: PRASONG, IP address: 192.168.1.10, IPv6 address: fe80::8475:a859:7dcc:5216
+
+2021-08-30 15:35:58.550833 [36624] >> Info entry
+	Did not find config file C:\webroot\sis-payment\public\sapnwrfc.ini.
+
+**** Log file opened at 2021-09-06 14:37:39.186981 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 8, Compiled on Apr 17 2021 03:23:42
+ CPIC library: 753.2020.03.230 version 3, NI library: 40, Kernel Release: 753 Patch Level 814
+ Current working directory: C:\webroot\sis-payment\public, Program: php
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: PRASONG, IP address: 192.168.1.10, IPv6 address: fe80::8475:a859:7dcc:5216
+
+2021-09-06 14:37:39.188099 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 27404174	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2021-09-06 14:38:32.123415 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 27458122	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2021-09-06 14:39:43.763065 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 27530759	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2021-09-06 14:39:55.805373 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 27543804	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2021-09-06 14:41:43.068661 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 27655069	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2021-09-06 14:51:07.202016 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 28220198	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2021-09-06 14:56:49.234956 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 28563224	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2021-09-06 14:57:17.112602 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 28592102	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2021-09-06 15:08:45.516788 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 29281496	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2021-09-06 15:09:43.054308 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 29340051	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:09:56.458219 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 29354453	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:10:11.437937 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 29370426	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:11:07.107032 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 29427090	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:11:36.621357 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 29457616	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:16:04.256895 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 29726249	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:16:07.254988 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 29730250	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:16:18.838852 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 29742832	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:16:49.058638 [17968] >> Error entry
+	[Handle: 1837032380576	ConvID: 29774052	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2021-09-06 15:17:24.389444 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 8, Compiled on Apr 17 2021 03:23:42
+ CPIC library: 753.2020.03.230 version 3, NI library: 40, Kernel Release: 753 Patch Level 814
+ Current working directory: C:\webroot\sis-payment\public, Program: php
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: PRASONG, IP address: 192.168.1.10, IPv6 address: fe80::8475:a859:7dcc:5216
+
+2021-09-06 15:17:24.389589 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 29810371	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:17:27.360177 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 29814352	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:18:32.576838 [42668] >> Error entry
+	[Handle: 2487878803744	ConvID: 29880572	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:19:18.349963 [42668] >> Error entry
+	[Handle: 2487878803744	ConvID: 29927345	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:19:28.541916 [42668] >> Error entry
+	[Handle: 2487878803744	ConvID: 29938538	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:20:36.671302 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 30007666	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:20:59.103553 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 30031101	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:21:37.365348 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 30070362	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:21:58.464445 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 30092458	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:25:05.091406 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 30280087	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:26:17.970842 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 30353963	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:28:10.914712 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 30467909	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:33:48.848004 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 30810846	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:34:17.090469 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 30839714	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcSystemException: Key: CALL_FUNCTION_SIGNON_INCOMPL, Code: RFC_ABAP_RUNTIME_FAILURE, Message: Incomplete logon data.
+2021-09-06 15:36:20.633773 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 30964629	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:37:40.211166 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 31045208	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:37:50.610436 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 31056606	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:39:48.977554 [42668] >> Error entry
+	[Handle: 2487844261936	ConvID: 31175975	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2021-09-06 15:52:36.726855 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 8, Compiled on Apr 17 2021 03:23:42
+ CPIC library: 753.2020.03.230 version 3, NI library: 40, Kernel Release: 753 Patch Level 814
+ Current working directory: C:\webroot\sis-payment\public, Program: php
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: PRASONG, IP address: 192.168.1.10, IPv6 address: fe80::3814:c8e8:aef9:4e3f
+
+2021-09-06 15:52:36.727206 [04552] >> Error entry
+	[Handle: 1950061806352	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host prasong with Unicode
+ERROR       partner '172.21.130.206:3300' not reached
+TIME        Mon Sep 06 15:52:36 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.21.130.206:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+2021-09-06 15:53:01.680706 [04552] >> Error entry
+	[Handle: 1950061830960	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.21.130.206:3300' not reached
+TIME        Mon Sep 06 15:53:01 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.21.130.206:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+2021-09-06 15:53:23.638569 [04552] >> Error entry
+	[Handle: 1950061830960	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.21.130.206:3300' not reached
+TIME        Mon Sep 06 15:53:23 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.21.130.206:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+2021-09-06 15:53:51.304959 [04552] >> Error entry
+	[Handle: 1950061830960	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.21.130.206:3300' not reached
+TIME        Mon Sep 06 15:53:51 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.21.130.206:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+
+2021-09-06 15:54:20.631029 [04552] >> Error entry
+	[Handle: 1950061830960	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.21.130.206:3300' not reached
+TIME        Mon Sep 06 15:54:20 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.21.130.206:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     10
+
+2021-09-06 15:55:53.092239 [04552] >> Error entry
+	[Handle: 1950025294112	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.21.130.206:3300' not reached
+TIME        Mon Sep 06 15:55:53 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.21.130.206:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     12
+
+2021-09-06 15:57:21.250868 [04552] >> Error entry
+	[Handle: 1950025294112	ConvID: 32228268	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:57:26.501223 [04552] >> Error entry
+	[Handle: 1950025294112	ConvID: 32234533	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 15:58:30.658942 [04552] >> Error entry
+	[Handle: 1950025294112	ConvID: 32299652	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 16:00:36.396811 [04552] >> Error entry
+	[Handle: 1950025294112	ConvID: 32426427	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 16:03:15.261022 [04552] >> Error entry
+	[Handle: 1950025294112	ConvID: 32592291	Target: ERP6QAS	SysID: SQA	SysNr: 00	User: notes	Mandant: 530	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Password logon no longer possible - too many failed attempts
+2021-09-06 16:07:48.555843 [04552] >> Error entry
+	[Handle: 1950025294112	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.21.130.20:3300' not reached
+TIME        Mon Sep 06 16:07:48 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.21.130.20:3300
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     20
+
+2021-09-06 16:15:02.056929 [04552] >> Error entry
+	[Handle: 1950025294112	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.21.130.20:3300' not reached
+TIME        Mon Sep 06 16:15:02 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.21.130.20:3300
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     22
+
+2021-09-06 16:22:15.479809 [04552] >> Error entry
+	[Handle: 1950025294112	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.21.130.20:3300' not reached
+TIME        Mon Sep 06 16:22:15 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.21.130.20:3300
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     24
+
+2021-09-06 16:24:03.171560 [04552] >> Error entry
+	[Handle: 1950025294112	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.21.130.20:3300' not reached
+TIME        Mon Sep 06 16:24:03 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.21.130.20:3300
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     30
+

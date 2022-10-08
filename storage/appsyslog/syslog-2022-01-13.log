@@ -1,0 +1,2 @@
+[2022-01-13 18:49:56] local.INFO: #log-FrontEnd# [{"username":"dev","req":"dev","responseCode":200,"dateTime":"2022-01-13 18:49:55","ip":"127.0.0.1","date":"2022-01-13 18:49:55","uri":"login","parameters":[],"route":"\\Auth\\LoginController@login","request":"dev","response_code":200,"methods":["POST"]}] 
+[2022-01-13 20:12:57] local.INFO: #log# {"username":"dev","ip":"::1","date":"2022-01-13 20:12:57","uri":"login","parameters":[],"route":null,"request":"dev","response_code":200,"methods":["POST"]} 
